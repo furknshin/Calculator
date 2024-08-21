@@ -1,0 +1,10 @@
+# IntelliJ IDEA dosyaları
+*.iml
+.idea/
+
+# Python bytecode dosyaları
+__pycache__/
+*.pyc
+
+# .ini dosyaları
+*.ini
